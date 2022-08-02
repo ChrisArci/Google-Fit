@@ -10,3 +10,6 @@ To-do:
 3. Play with reasonable statistics
 4. Automate these statistics
 5. Automate the download process from Google
+
+RQ:
+How are Cardio Points calculated (Weight, Height)? Are cardio points sensible informations?
